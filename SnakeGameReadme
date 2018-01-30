@@ -5,3 +5,5 @@ The link for downloading the entire library suite for STM32F4/429 Discovery boar
 Just replace the original 08-STM32F429_ILI9341 folder by this zip contents, build and flas h the program on the discovery board.
 
 *A two axis analog joystick is required
+x -axis to ADC channel 0
+y -axis to ADC channel 3

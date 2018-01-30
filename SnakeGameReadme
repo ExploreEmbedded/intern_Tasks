@@ -1,0 +1,7 @@
+The zip file "08-STM32F429_ILI9341" contains code for SNAKE game implementation on STM32F407VGTx controller.
+The said zip is a library for ILI9341 LCD interfacing via SPI.
+The link for downloading the entire library suite for STM32F4/429 Discovery board is : http://stm32f4-discovery.com
+
+Just replace the original 08-STM32F429_ILI9341 folder by this zip contents, build and flas h the program on the discovery board.
+
+*A two axis analog joystick is required
